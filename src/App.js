@@ -15,6 +15,7 @@ class App extends Component {
         </p>
         <h1>I'm a Professional Software Engineer</h1>
         <h1>I'm a full stack engineer</h1>
+        <h2>I have two years experience</h2>
       </div>
     );
   }
