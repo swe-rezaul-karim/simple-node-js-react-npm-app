@@ -22,6 +22,11 @@ class App extends Component {
           <li>Javascript</li>
           <li>PHP</li>
         </ul>
+        <h4>Framwork</h4>
+        <ul>
+          <li>React.js</li>
+          <li>Next.js</li>
+        </ul>
       </div>
     );
   }
